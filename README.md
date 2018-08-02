@@ -1,0 +1,2 @@
+# magicHYUN.github.io
+hexo
